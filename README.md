@@ -7,15 +7,11 @@ The goal is to practice SQL data modeling, data cleaning, and basic analysis, th
 
 This is a learning-focused portfolio project.
 
-Tools Used
+## Tools Used
+- SQL (MySQL)
+- Power BI
+- GitHub
 
-SQL (MySQL)
-
-GitHub
-
-Power BI
-
-PDF for project explanation
 
 What I Did
 

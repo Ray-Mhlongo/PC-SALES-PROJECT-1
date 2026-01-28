@@ -13,7 +13,7 @@ This is a learning-focused portfolio project.
 - GitHub
 
 
-What I Did
+# **What I Did**
 
 - Created a relational database for PC parts pricing
 

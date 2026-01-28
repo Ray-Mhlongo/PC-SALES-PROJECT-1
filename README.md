@@ -1,6 +1,6 @@
 ## **PC Parts Price Analysis (South Africa)**
 
-Project Overview
+# **Project Overview**
 
 This project analyses PC component prices across different shops and provinces in South Africa.
 The goal is to practice SQL data modeling, data cleaning, and basic analysis, then prepare the data for visualization in tools like Power BI.
@@ -15,60 +15,60 @@ This is a learning-focused portfolio project.
 
 What I Did
 
-Created a relational database for PC parts pricing
+- Created a relational database for PC parts pricing
 
-Inserted and cleaned raw product data
+- Inserted and cleaned raw product data
 
-Standardized inconsistent values (names, formatting)
+- Standardized inconsistent values (names, formatting)
 
-Built dimension tables:
+- Built dimension tables:
 
-Categories
+- Categories
 
-Provinces
+- Provinces
 
-Shops
+- Shops
 
-Manufacturers
+- Manufacturers
 
-Applied primary keys and foreign keys
+- Applied primary keys and foreign keys
 
-Ran analysis queries to answer business-style questions
+- Ran analysis queries to answer business-style questions
 
-Database Structure
+# **Database Structure**
 
-Main Table
+- Main Table
 
-Parts
+- Parts
 
-Dimension Tables
+- Dimension Tables
 
-part_categories
+- part_categories
 
-Province
+- Province
 
-Shop
+- Shop
 
-Manufacturer
+- Manufacturer
 
-This structure allows filtering by:
+**This structure allows filtering by:**
 
-Category (CPU, GPU, RAM, etc.)
+- Category (CPU, GPU, RAM, etc.)
 
-Province
+- Province
 
-Shop
+- Shop
 
-Manufacturer
+- Manufacturer
 
-Key Questions Answered
+- Key Questions Answered
 
-What products are available in each province?
+- What products are available in each province?
 
-Cheapest products per category
+- Cheapest products per category
 
-Price differences between shops
+- Price differences between shops
 
-Warranty comparisons
+- Warranty comparisons
 
-Most and least expensive items per category
+- Most and least expensive items per category

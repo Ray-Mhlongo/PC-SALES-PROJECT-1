@@ -1,8 +1,5 @@
-# PC-SALES-PROJECT-1
-SQL-based project analyzing PC parts prices across South African shops, prepared for Power BI dashboards.
+#PC Parts Price Analysis (South Africa)
 
-
-PC Parts Price Analysis (South Africa)
 Project Overview
 
 This project analyses PC component prices across different shops and provinces in South Africa.
@@ -16,7 +13,7 @@ SQL (MySQL)
 
 GitHub
 
-Power BI (planned / optional)
+Power BI
 
 PDF for project explanation
 

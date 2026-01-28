@@ -1,0 +1,67 @@
+parts_id,Part,Manufacturer,Shop,Province,Price,Warranty,category_id,province_id,shop_id,manufacturer_id
+1,"i5  12400",Intel,Wootware,"Western Cape",3663.00,"3 years",3,1,2,1
+2,"i5   12400",Intel,"Dreamware Technology",KwaZulu-Natal,3739.00,"3 years",3,3,4,1
+3,"i7   12700",Intel,"Rebel Gaming","Western Cape",6338.00,"3 years",3,1,3,1
+4,"i7  12700",Intel,Wootware,"Western Cape",6233.00,"3 years",3,1,2,1
+5,"i9  14900",Intel,Wootware,"Western Cape",11099.00,"3 years",3,1,2,1
+6,"i9  14900",Intel,Evetech,Gauteng,12200.00,"3 years",3,2,1,1
+7,"R5 7600",AMD,"Rebel Gaming","Western Cape",4189.00,"3 years",3,1,3,2
+8,"R5 7600",AMD,Wootware,"Western Cape",3999.00,"3 years",3,1,2,2
+9,"R7 7700",AMD,Vanguard,Gauteng,7709.00,"3 years",3,2,7,2
+10,"R7 7700",AMD,Wootware,"Western Cape",6472.00,"3 years",3,1,2,2
+11,"RTX 5070 12GB",Palit,Evetech,Gauteng,11999.00,"3 years",4,2,1,3
+12,"RTX 5070 12GB",Zotac,Wootware,"Western Cape",13999.00,"3 years",4,1,2,4
+13,"RX 7700 XT 12GB",ASUS,Wootware,"Western Cape",15455.00,"3 years",4,1,2,5
+14,"RX 7700 XT 12GB",ASUS,"Rebel Gaming","Western Cape",15323.00,"3 years",4,1,3,5
+15,"128GB SSD",DATO,HI-CORP,Gauteng,449.00,"3 years",5,2,6,6
+16,"128GB SSD M.2",Patriot,Wootware,"Western Cape",677.00,"3 years",5,1,2,7
+17,"B660 Motherboard",GIGABYTE,"Rebel Gaming","Western Cape",3959.00,"3 years",2,1,3,8
+18,"B660 Motherboard",GIGABYTE,Wootware,"Western Cape",3938.00,"3 years",2,1,2,8
+19,"Z790 Motherboard","ASUS TUF","Rebel Gaming","Western Cape",6702.00,"3 years",2,1,3,10
+20,"Z790 Motherboard","ASUS TUF",Wootware,"Western Cape",5963.00,"3 years",2,1,2,10
+21,"B550 Motherboard",ASRock,Evetech,Gauteng,2799.00,"3 years",2,2,1,9
+22,"B550 Motherboard","ASUS TUF",Wootware,"Western Cape",2799.00,"3 years",2,1,2,10
+23,"X670 Motherboard",GIGABYTE,"Rebel Gaming","Western Cape",6036.00,"3 years",2,1,3,8
+24,"X670 Motherboard",GIGABYTE,Wootware,"Western Cape",6599.00,"3 years",2,1,2,8
+25,"DDR5 8GB RAM",Transcend,"Dreamware Technology",KwaZulu-Natal,2429.00,Lifetime,1,3,4,11
+26,"DDR5 8GB RAM",G.Skill,Wootware,"Western Cape",1499.00,Lifetime,1,1,2,12
+27,"DDR5 16GB RAM",KingSpec,Evetech,Gauteng,3399.00,Lifetime,1,2,1,13
+28,"DDR5 16GB RAM",Crucial,Wootware,"Western Cape",3323.00,Lifetime,1,1,2,14
+29,"DDR5 32GB RAM",ADATA,Evetech,Gauteng,6999.00,Lifetime,1,2,1,15
+30,"DDR5 32GB RAM",Patriot,Wootware,"Western Cape",7199.00,Lifetime,1,1,2,7
+31,"DDR5 64GB RAM",Crucial,"Rebel Gaming","Western Cape",11047.00,Lifetime,1,1,3,14
+32,"DDR5 64GB RAM",Crucial,Wootware,"Western Cape",3323.00,Lifetime,1,1,2,14
+33,"550W 80 Plus Bronze Power Supply",Corsair,Wootware,"Western Cape",1099.00,"5 years",6,1,2,16
+34,"550W 80 Plus Bronze Power Supply",MSI,"Rebel Gaming","Western Cape",844.00,"5 years",6,1,3,17
+35,"650W 80 Plus Bronze Power Supply",MSI,"Rebel Gaming","Western Cape",999.00,"5 years",6,1,3,17
+36,"650W 80 Plus Bronze Power Supply",GIGABYTE,"Rebel Gaming","Western Cape",1182.00,"3 years",6,1,3,8
+37,"750W 80 Plus Gold Power Supply","Super Flower",Wootware,"Western Cape",1849.00,"10 years",6,1,2,18
+38,"750W 80 Plus Gold Power Supply",Antec,"Rebel Gaming","Western Cape",1199.00,"5 years",6,1,3,19
+39,"850W 80 Plus Gold Power Supply",Antec,"Rebel Gaming","Western Cape",2358.00,"7 years",6,1,3,19
+40,"850W 80 Plus Gold Power Supply","Super Flower",Wootware,"Western Cape",2149.00,"10 years",6,1,2,18
+41,"1000W 80 Plus Gold Power Supply",Antec,"Rebel Gaming","Western Cape",3237.00,"10 years",6,1,3,19
+42,"1000W 80 Plus Gold Power Supply","Super Flower",Wootware,"Western Cape",2499.00,"10 years",6,1,2,18
+43,"22" Full HD 100Hz Monitor",DELL,Evetech,Gauteng,1599.00,"3 years",7,2,1,24
+44,"22" Full HD 100Hz Monitor",DAHUA,Evetech,Gauteng,1699.00,"3 years",7,2,1,25
+45,"24" Full HD 100Hz Monitor",DELL,Evetech,Gauteng,1899.00,"3 years",7,2,1,24
+46,"24" Full HD 120Hz Monitor","VIEW SONIC",Evetech,Gauteng,1949.00,"3 years",7,2,1,20
+47,"24" Full HD 120Hz Monitor",ASUS,Wootware,"Western Cape",1799.00,"3 years",7,1,2,5
+48,"24" Full HD 120Hz Monitor",LG,Wootware,"Western Cape",1799.00,"3 years",7,1,2,21
+49,"24" Full HD 144Hz Monitor",COOLERMASTER,"Rebel Gaming","Western Cape",5065.00,"2 years",7,1,3,22
+50,"24" Full HD 144Hz Monitor",AOC,Evetech,Gauteng,1999.00,"4 years",7,2,1,23
+51,"24" Full HD 180Hz Monitor",LG,"Rebel Gaming","Western Cape",3971.00,"2 years",7,1,3,21
+52,"24" Full HD 180Hz Monitor",AOC,Wootware,"Western Cape",2499.00,"3 years",7,1,2,23
+53,"24" Full HD 180Hz Monitor",MSI,Wootware,"Western Cape",2976.00,"3 years",7,1,2,17
+54,"RX 6700 XT 12GB",GIGABYTE,"Rebel Gaming","Western Cape",10866.00,"3 years",4,1,3,8
+55,"RTX 3080 12GB",GIGABYTE,"Rebel Gaming","Western Cape",13885.00,"3 years",4,1,3,8
+56,"RTX 2060 12GB",GIGABYTE,"Rebel Gaming","Western Cape",6761.00,"3 years",4,1,3,8
+57,"RTX 5070 12GB",GIGABYTE,"Rebel Gaming","Western Cape",16555.00,"3 years",4,1,3,8
+58,"RX 6750 XT 12GB",GIGABYTE,Wootware,"Western Cape",10699.00,"3 years",4,1,2,8
+59,"RTX 5070 12GB",MSI,Evetech,Gauteng,13999.00,"3 years",4,2,1,17
+60,"B450 Motherboard",ASRock,"Rebel Gaming","Western Cape",1112.00,"3 years",2,1,3,9
+61,"A520 Motherboard",ASUS,"Rebel Gaming","Western Cape",1585.00,"3 years",2,1,3,5
+62,"B650 Motherboard",MSI,Evetech,Gauteng,2499.00,"3 years",2,2,1,17
+63,"B760 Motherboard",MSI,Evetech,Gauteng,2199.00,"3 years",2,2,1,17
+64,"1000GB SSD",ADATA,"Rebel Gaming","Western Cape",2172.00,"3 years",5,1,3,15
+65,"256GB SSD",ADATA,"Rebel Gaming","Western Cape",589.00,"3 years",5,1,3,15
+66,"2000GB SSD",ADATA,"Rebel Gaming","Western Cape",6411.00,"3 years",5,1,3,15

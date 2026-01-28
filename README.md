@@ -60,3 +60,10 @@ This structure allows filtering by:
 - How do prices differ between shops?
 - Which products have the highest warranties?
 - What are the most and least expensive items per category?
+
+
+## Folder Structure
+- /scripts/ → SQL scripts to create tables and insert data
+- /data/ → CSV files of raw or cleaned data
+- /PowerBI/ → Power BI files and dashboards
+

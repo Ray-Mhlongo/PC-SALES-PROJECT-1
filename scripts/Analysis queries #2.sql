@@ -38,4 +38,5 @@ GROUP BY C.category_name, P.part, P.manufacturer;
 SELECT C.category_name, P.Part, P.Manufacturer, MIN(P.Price) AS Min_Price
 FROM Parts P
 INNER JOIN part_categories C ON P.category_id = C.category_id
+
 GROUP BY C.category_name,  P.part, P.manufacturer;

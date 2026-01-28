@@ -1,4 +1,4 @@
-#PC Parts Price Analysis (South Africa)
+##*PC Parts Price Analysis (South Africa)*
 
 Project Overview
 
